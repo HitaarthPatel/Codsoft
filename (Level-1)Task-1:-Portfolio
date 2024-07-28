@@ -94,6 +94,9 @@
         <div class="container">
             <p>&copy; 2024 Your Name. All rights reserved.</p>
         </div>
+    </footer>
+</body>
+</html>
 
 **************CSS CODE****************
 
@@ -233,7 +236,5 @@ footer p {
     margin: 0;
 }
 
-    </footer>
-</body>
-</html>
+
 
